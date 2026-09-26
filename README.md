@@ -22,3 +22,7 @@ This project analyzes sales data using Microsoft Excel to identify sales trends,
 The complete Excel project file is available here:
 
 [Sales_Data_Project.xlsx](./Sales_Data_Project.xlsx)
+
+## Dashboard Preview
+
+![Sales Dashboard](IMG-20260926-WA0004.jpg)
